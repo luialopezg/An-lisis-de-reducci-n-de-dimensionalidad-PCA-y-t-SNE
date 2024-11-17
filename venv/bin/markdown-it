@@ -1,0 +1,10 @@
+#!/bin/sh
+'''exec' "/media/luis/679bf4c6-b08e-405f-bf66-a325930f4245/2024/1. Maestria_UNIR_AI/2.Semestre 2/Aprendizaje Automático No Supervisado/Actividades/Actividad 2/muinar07_act2_individual/An-lisis-de-reducci-n-de-dimensionalidad-PCA-y-t-SNE/venv/bin/python3" "$0" "$@"
+' '''
+# -*- coding: utf-8 -*-
+import re
+import sys
+from markdown_it.cli.parse import main
+if __name__ == '__main__':
+    sys.argv[0] = re.sub(r'(-script\.pyw|\.exe)?$', '', sys.argv[0])
+    sys.exit(main())
