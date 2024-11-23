@@ -49,3 +49,10 @@ Este proyecto tiene como objetivo explorar y aplicar técnicas avanzadas de redu
 - Un notebook funcional que sirva como base para proyectos futuros de análisis de datos complejos.
 
 Con este proyecto, se espera adquirir un conocimiento práctico y profundo de las técnicas de reducción de dimensionalidad y su aplicación en análisis exploratorios y preprocesamiento de datos.
+
+## Actualizaciones en este commit
+- Implementación de LDA para análisis de tópicos
+- Visualizaciones de resultados con PCA, t-SNE y MDS
+- Análisis de asociación entre etiquetas y tópicos
+- Scripts disponibles en el directorio `notebooks`
+
